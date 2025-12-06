@@ -94,6 +94,6 @@ wf-recorder [agrv]
 #!/bin/bash
 
 wf-recorder -a=alsa_output.pci-0000_00_1f.3.analog-stereo.monitor \
-    -f "/home/snow/workstation/Videos/.wf-recorder/$(date +%Y-%m-%d_%H-%M-%S).mkv" \
+    -f "/home/snow/workstation/Videos/wf-recorder/$(date +%Y-%m-%d_%H-%M-%S).mkv" \
     -r 60
 ```
