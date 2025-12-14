@@ -24,11 +24,9 @@
 
 - 最喜欢的曲子: おやすみふぁんしーないと (晚安 Fancy Night) - これすぺしゃるごはん！
 
-- 喜欢玩的游戏: Minecraft Terraria TETR.IO(和其他现代块) CS2 一些自动化基地建设游戏 (要认真学习啦，大概以后只会挂着gogh了) 
+- 喜欢玩的游戏: Minecraft Terraria TETR.IO(和其他现代块) CS2 一些自动化基地建设游戏
 
 - 想要: 变得可爱！
-
-- 不想要: 键政
 
 ## 关于计算机:
 
@@ -51,11 +49,12 @@
   - 《数据结构》(错买成Pascal版)
   - 《Kotlin移动应用开发》(没有深究，略有启蒙)
   - 《编译原理》(研究性学习课题用)
-  - 《C Primer Plus》(我正在看)
+  - 《C Primer Plus》
 
 - 准备看的书
   
   - 《Rust权威指南》电子工业出版社
+  - 《JavaScript权威指南》机械工业出版社
   - 《TCP/IP详解》机械工业出版社
 
 - 喜欢的设计与主题: Material You, Materia(GTK/QT), Catppuccin-mocha
